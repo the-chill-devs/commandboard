@@ -11,4 +11,5 @@ CommandBoard ('cb') is a productivity toolkit that features different tools to h
 sh setup.sh
 ```
 
+## Note
 _Document is subject to change_
